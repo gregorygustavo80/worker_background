@@ -7,10 +7,9 @@ Este é um script Python simples para verificar se uma lista de URLs está onlin
 * Python 3.x
 * Biblioteca `requests`
 
-Você pode instalar a biblioteca `requests` usando:
-
+## Instalar dependências 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 ## Uso
